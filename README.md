@@ -13,16 +13,18 @@
 
 ## 🛠️ About Me
 
-Driven by a lifelong fascination with circuits and signals, I specialize in **AI hardware acceleration** and **VLSI design**. My journey, from exploring electronics as a child in India to leading complex verification projects, is focused on relentless innovation and pushing technological boundaries.
+Passionate **AI Hardware & VLSI Engineer** focused on acceleration and verification. Currently driving innovation at **Axelera AI** (RISC-V CPU verification) after impactful years at **Intel** (AI accelerators, SerDes verification, SVA development).
 
-Currently, as a **Senior Engineer at Axelera AI**, I verify **RISC-V vector CPUs** for cutting-edge AI accelerator components, focusing on vector/arithmetic processing units and in-memory computing.
+Beyond my core role, I explore:
+*   💻 **Software Development:** Building applications and tools.
+*   🧠 **Machine Learning:** Experimenting with models and creating ML projects.
+*   🤖 **AI Products & SaaS:** Conceptualizing and developing AI-driven solutions.
 
-Previously at **Intel**, I led verification for AI accelerators, compression engines, and multi-die interconnects (AXI, PCIe, USB), earning multiple awards. A key achievement was developing a reusable **SystemVerilog Assertion (SVA)** suite that significantly improved bug detection for high-speed SerDes interfaces.
-
-- 🔭 Currently working on: **Verification of novel AI accelerator architectures.**
-- 🌱 Currently learning: **Advanced techniques in in-memory computing and dataflow architectures.**
-- 👯 Looking to collaborate on: **Open-source projects related to AI hardware, RISC-V, or verification methodologies.**
-- 💬 Ask me about: **AI accelerators, VLSI verification (UVM/SystemVerilog), RISC-V, SerDes PHYs, Cognitive Computing.**
+Let's connect if you're interested in:
+*   🔭 **Current Work:** Verification of novel AI accelerator architectures.
+*   🌱 **Learning:** Advanced in-memory computing & dataflow techniques.
+*   🤝 **Collaboration:** Open-source AI hardware, RISC-V, or verification projects.
+*   💬 **Topics:** AI accelerators, VLSI (UVM/SV), RISC-V, SerDes PHYs, Cognitive Computing.
 
 ## ✨ Interactive Cosmic Shapes Animation
 
