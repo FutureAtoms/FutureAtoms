@@ -19,6 +19,11 @@
 - 💬 Ask me about **artificial intelligence, neural networks, and cognitive computing**
 - 📫 How to reach me: **Connect with me on LinkedIn or Instagram**
 
+## ✨ Interactive Cosmic Shapes Animation
+
+[![Cosmic Shapes Preview GIF](assets/galaxy.gif)](https://futureatoms.github.io/FutureAtoms/animation.html)
+<p align="center">Click the image above to experience the magic!</p>
+
 ## 🔗 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/abhilashchadhar/" target="blank">
@@ -68,10 +73,5 @@
 
 <!-- LAST_UPDATED: Tue Apr  8 15:36:41 UTC 2025 -->
 ---
-
-## ✨ Interactive Cosmic Shapes Animation
-
-[![Cosmic Shapes Preview GIF](assets/galaxy.gif)](https://futureatoms.github.io/FutureAtoms/animation.html)
-<p align="center">Click the image above to experience the magic!</p>
 
 <!-- End of README -->
