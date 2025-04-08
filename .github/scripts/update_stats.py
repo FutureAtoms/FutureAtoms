@@ -13,7 +13,7 @@ import requests
 from github import Github
 
 # Configuration
-GITHUB_USERNAME = "future-mind"
+GITHUB_USERNAME = "FutureAtoms"
 README_PATH = "README.md"
 
 def get_github_stats():
