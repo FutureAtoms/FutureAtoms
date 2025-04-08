@@ -9,6 +9,8 @@ jobs:
   update-readme:
     name: Update Profile README
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allow workflow to write to repository contents
     steps:
       - name: Checkout
         uses: actions/checkout@v3
