@@ -28,35 +28,27 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      - name: Update Recent Activity
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+# Temporarily disabled due to Exit code 128
+#      - name: Update Recent Activity
+#        uses: jamesgeorge007/github-activity-readme@master
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Generate Snake Animation
         uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: future-mind
+          github_user_name: FutureAtoms
           svg_out_path: dist/github-contribution-grid-snake.svg
           
-      - name: Update Blog Posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://dev.to/feed/yourusername,https://medium.com/feed/@yourusername"
-          max_post_count: 5
-          comment_tag_name: "BLOG-POST-LIST"
+      - name: Update Timestamp in README
+        run: |
+          sed -i "s|<!-- LAST_UPDATED -->|<!-- LAST_UPDATED: $(date) -->|g" README.md
           
-      - name: Deploy to GitHub
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          
-      - name: Commit and Push
+      - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update profile README" && git push)
+          git add README.md dist/github-contribution-grid-snake.svg
+          git commit -m "Update profile README - $(date)"
+          git push
