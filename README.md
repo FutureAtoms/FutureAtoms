@@ -31,7 +31,6 @@ Previously at **Intel**, I led verification for AI accelerators, compression eng
 
 ## 🔗 Connect with Me
 
-📧 [chadharabhilash@gmail.com](mailto:chadharabhilash@gmail.com)
 <p align="left" style="margin-top: 10px;">
   <a href="https://www.linkedin.com/in/abhilashchadhar/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhilashchadhar" height="30" width="40" />
