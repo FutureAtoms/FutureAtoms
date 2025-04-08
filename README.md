@@ -68,6 +68,13 @@
 
 <!-- LAST_UPDATED -->
 ---
-<p align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="snake contribution grid">
-</p>
+
+## ✨ Interactive Cosmic Shapes Animation
+
+Check out this interactive particle animation I created!
+
+[Click here to experience it!](https://futureatoms.github.io/FutureAtoms/animation.html) 
+
+*(You can replace this text with a screenshot or GIF preview later)*
+
+<!-- End of README -->
