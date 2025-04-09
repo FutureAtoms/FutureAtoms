@@ -36,12 +36,13 @@ jobs:
 #        env:
 #          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      - name: Generate Snake Animation
-        uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: FutureAtoms
-          svg_out_path: dist/github-contribution-grid-snake.svg
+      # Removed Snake Generation step as it's no longer used
+      # - name: Generate Snake Animation
+      #   uses: Platane/snk@master
+      #   id: snake-gif
+      #   with:
+      #     github_user_name: FutureAtoms
+      #     svg_out_path: dist/github-contribution-grid-snake.svg
           
       - name: Update Timestamp in README
         run: |
