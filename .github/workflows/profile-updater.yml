@@ -51,6 +51,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md dist/github-contribution-grid-snake.svg
-          git commit -m "Update profile README - $(date)"
+          git add README.md # Only add README.md
+          # Commit changes with the current date, allowing empty commits
+          git commit --allow-empty -m "Update profile README - $(date)"
           git push
