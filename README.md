@@ -25,7 +25,7 @@ FutureAtoms is the independent AI product studio of [Abhilash Chadhar](https://w
 
 - Senior Engineer, Axelera Wingman at Axelera AI, Eindhoven. Built Axelera Wingman, the AI assistant for building vision and LLM applications on Axelera's Metis hardware, from the first commit to its public launch on 15 July 2026, and wrote every human commit on its main branch (2,494 by 28 September 2026).
 - Took a RISC-V vector CPU at Axelera to its Gold verification review at 96.0 percent functional coverage.
-- Seven years at Intel, including the graduate internship: mixed-signal USB and PCIe PHY design and verification, deep learning hardware architecture and design including compression encoders, the Gaudi2 tape-out, a full SoC on TSMC 5 nm taken from scratch to tape-out in under seven months, and verification work across ten projects that reached working silicon.
+- Seven years at Intel, including the graduate internship: mixed-signal USB and PCIe PHY design and verification, deep learning hardware architecture and design including compression encoders, the founding team of Spring Hill (Intel's first AI chip), the Gaudi2 tape-out, a full SoC on TSMC 5 nm taken from scratch to tape-out in under seven months, and verification work across ten projects that reached working silicon.
 - M.Tech, Indian Institute of Space Science and Technology; intern at ISRO's Semiconductor Laboratory.
 
 ## Links
