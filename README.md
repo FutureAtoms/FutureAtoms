@@ -1,13 +1,13 @@
 # FutureAtoms
 
-FutureAtoms is the independent AI product studio of [Abhilash Chadhar](https://www.linkedin.com/in/abhilashchadhar), founded in February 2025 and bootstrapped in the Netherlands. It builds tools for engineers who design chips and write software with AI agents.
+FutureAtoms is the independent AI product studio founded, designed and built by [Abhilash Chadhar](https://www.linkedin.com/in/abhilashchadhar), founded in February 2025 and bootstrapped in the Netherlands. It builds tools for engineers who design chips and write software with AI agents.
 
 ## Products
 
 | Product | What it is | Status |
 |---|---|---|
-| ChipOS by FutureAtoms | Tooling for chip design and verification teams: it generates RTL and testbench scaffolding, runs tests and triages failures. Desktop IDE and web app. | Announced during the India AI Impact Summit, New Delhi, February 2026; a press release was syndicated through ANI. Word mark filed with BOIP, 9 December 2025. |
-| [Agentic Control Framework](https://github.com/FutureAtoms/agentic-control-framework) | CLI and MCP server giving AI coding agents task dependencies, filesystem and terminal tools, browser automation and persistent memory. | Published on GitHub. Presented at DVClub Eindhoven, 23 September 2025. |
+| ChipOS by FutureAtoms | Tooling for chip design and verification teams: it generates RTL and testbench scaffolding, runs tests and triages failures. Desktop IDE and web app. | Announced during the India AI Impact Summit, New Delhi, February 2026; a press release was syndicated through ANI. Word mark filed with BOIP, December 2025. |
+| [Agentic Control Framework](https://github.com/FutureAtoms/agentic-control-framework) | CLI and MCP server giving AI coding agents task dependencies, filesystem and terminal tools, browser automation and persistent memory. | Published on GitHub. Presented at DVClub Eindhoven, September 2025. |
 | [Kartix](https://github.com/FutureAtoms/Kartix) | Native macOS terminal workspace in Rust and Tauri that runs official coding-agent CLIs beside the terminal. | Public alpha. |
 | FutureAtoms Inspection | Desktop and browser workspace for reviewing utility-asset inspection photographs, with an in-app agent that operates the UI through 26 schema-validated tools on a local model. | Prototype. |
 
@@ -23,7 +23,7 @@ FutureAtoms is the independent AI product studio of [Abhilash Chadhar](https://w
 
 ## About the founder
 
-- Abhilash Chadhar is a founder and AI product builder. He leads Agentic AI Applications at Axelera AI in Eindhoven. He built Axelera Wingman, Axelera AI's agentic coding product, from a side project to its public launch on 15 July 2026, wrote every human commit on its main branch (2,494 by 28 September 2026) and built the business into it, from usage metering to a public price list.
+- Abhilash Chadhar is a founder and AI product builder. He leads Agentic AI Applications at Axelera AI in Eindhoven. He built Axelera Wingman end to end, a complete AI coding harness for Axelera's chips, Metis and Europa: the harness from scratch, the web platform, the desktop app and now version 2, more than 5,000 commits. Around it he runs product management, customer work and sales meetings, marketing, the legal and AI-governance work, pricing and financial planning, and a course that certifies companies on Wingman.
 - Took a RISC-V vector CPU at Axelera to its Gold verification review at 96.0 percent functional coverage.
 - Seven years at Intel, including the graduate internship: mixed-signal USB and PCIe PHY design and verification, deep learning hardware architecture and design including compression encoders, the founding team of Spring Hill (Intel's first AI chip), the Gaudi2 tape-out, a full SoC on TSMC 5 nm taken from scratch to tape-out in under seven months, and verification work across ten projects that reached working silicon.
 - M.Tech, Indian Institute of Space Science and Technology; intern at ISRO's Semiconductor Laboratory.
