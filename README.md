@@ -1,6 +1,25 @@
 # FutureAtoms
 
-FutureAtoms is the independent AI product studio founded, designed and built by [Abhilash Chadhar](https://www.linkedin.com/in/abhilashchadhar), founded in February 2025 and bootstrapped in the Netherlands. It builds tools for engineers who design chips and write software with AI agents.
+FutureAtoms is the independent AI product studio that [Abhilash Chadhar](https://www.linkedin.com/in/abhilashchadhar) founded in February 2025. He designs and builds every product himself, bootstrapped in the Netherlands, for engineers who design chips and write software with AI agents.
+
+## Shipping every day
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/combined-dark.svg">
+  <img alt="Contributions in the last 12 months across my work and studio accounts" src="stats/combined-light.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/ac-e-ai-dark.svg">
+  <img alt="Contributions on my work account" src="stats/ac-e-ai-light.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/futureatoms-dark.svg">
+  <img alt="Contributions on FutureAtoms" src="stats/futureatoms-light.svg">
+</picture>
+
+Daily contribution counts from both of my GitHub accounts, private repositories included, rebuilt every day. The cards carry counts only: no repository, project or company data.
 
 ## Products
 
